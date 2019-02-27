@@ -1,0 +1,6 @@
+framework module Pods_XXModuleLogin_Example {
+  umbrella header "Pods-XXModuleLogin_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

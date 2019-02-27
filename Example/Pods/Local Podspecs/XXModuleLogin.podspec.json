@@ -1,0 +1,22 @@
+{
+  "name": "XXModuleLogin",
+  "version": "0.1.0",
+  "summary": "A short description of XXModuleLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1350009686@qq.com/XXModuleLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1350009686@qq.com": "1350009686"
+  },
+  "source": {
+    "git": "https://github.com/1350009686@qq.com/XXModuleLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXModuleLogin/Classes/**/*"
+}

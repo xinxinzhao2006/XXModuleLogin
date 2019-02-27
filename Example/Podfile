@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XXModuleLogin_Example' do
+  pod 'XXModuleLogin', :path => '../'
+
+  target 'XXModuleLogin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
